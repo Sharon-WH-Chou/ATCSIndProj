@@ -29,4 +29,5 @@ This is my final project for the 2023-2024 Advanced Topics in CS course at Polyt
 
 3. Tried to get the model to classify other things:
    - f1 drivers charles leclerc vs carlos sainz, did not work well. only 20% certain charles was charles and 50% certain carlos was charles. 
-   - Then tried to get it to classify f1 vs motogp pictures. Worked very well: 0.9999 probability f1 photo is f1, 0 probability motogp photo is f1 
+   - Then tried to get it to classify f1 vs motogp pictures. Worked very well: 0.9994 probability f1 photo is f1, 0 probability motogp photo is f1 
+   - This final version is shared with you on Kaggle!
